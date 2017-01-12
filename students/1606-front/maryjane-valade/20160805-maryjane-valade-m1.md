@@ -193,4 +193,4 @@ Student participates in required activities and does at least one or two above-a
 
 ### Outcome
 
-( Leave blanks for reviewers )
+PASS
